@@ -1,1 +1,1 @@
-Ideas, experiments, examplars, code for new workflows and tools.
+Ideas, experiments, exemplars, code for new workflows and tools.
