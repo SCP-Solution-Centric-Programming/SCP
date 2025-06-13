@@ -1,0 +1,2 @@
+# SCP
+Solution Centric Programming
