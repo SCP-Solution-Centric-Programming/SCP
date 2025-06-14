@@ -5,7 +5,7 @@ A lot of our biases are based on the state of 1960s hardware.
 
 Today, it is much, much cheaper to build syntaxes than it used to be, and, our hardware runs much, much faster. For example, I built a [REPL](https://www.youtube.com/watch?v=YWXIf1Oc13Y) for development using 4 threads with JSON strings as the IPC format. It runs in the blink of an eye. 
 
-The state of our hardware (and our problem spaces) has changed so much that it is time for a re-think / upgrade / upward-abstraction. The workflow we've got is based on old-fashioned ideas about what we need. We no longer need to make incremental improvements to  1960s development workflows, replete with time-sharing, function-based restrictions on thinking, etc.
+The state of our hardware (and our problem spaces) has changed so much that it is time for a re-think / upgrade / upward-abstraction. The workflow we've got is based on old-fashioned ideas about what we need. We no longer need to make incremental improvements to 1960s development workflows, replete with time-sharing, function-based restrictions on thinking, programming languages, operating systems, etc.
 
 To explore these ideas, three subdirectories containing mostly markdown files and subdirectories, have been created:
 - WHWG/
